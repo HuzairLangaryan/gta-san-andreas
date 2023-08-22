@@ -19,6 +19,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 400px;
+    border-radius: 5px;
 }
 .box{
     background-color: black;
